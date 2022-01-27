@@ -1,8 +1,8 @@
 # Travel Advisor Application
 
-this is an application that will help you in finding the best hotels and places to eat according to your wishes.
+this is an application that will help you in finding the best hotels and restaurant according to your wishes.
 
-This application is equipped with a search feature that is integrated with geolocation from Google Maps, you can easily find the most recommended hotels and places to eat for you while traveling.
+This application is equipped with a search feature that is integrated with geolocation from Google Maps, you can easily find the most recommended hotels and restaurant for you while traveling.
 
 we use the latest technologies to build this application with the aim of improving the quality and comfort of you in using this application.
 
